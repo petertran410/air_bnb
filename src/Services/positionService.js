@@ -6,6 +6,6 @@ export const positionSer = {
   getCurrentPosition: (id) => https.get(`/api/vi-tri/${id}`),
   postPosition: (data) => https.post("/api/vi-tri", data),
   deletePosition: (id) => https.delete(`/api/vi-tri/${id}`),
-  editPosition: (id,data) => https.put(`/api/vi-tri/${id}`,data),
+  editPosition: (id, data) => https.put(`/api/vi-tri/${id}`, data),
   getDataFromId: (id) => https.get(`/api/vi-tri/${id}`),
 };

@@ -101,7 +101,6 @@ export default function Detail() {
               <span className="span-gray bg-yellow-300  ">{giaTien}$/đêm</span>
               <Link
                 to={`/room/${id}/${currentPosition.center?.lat}/${currentPosition.center?.lng}`}
-
                 className="span-gray text-gray-50  bg-red-500"
               >
                 Chi tiết

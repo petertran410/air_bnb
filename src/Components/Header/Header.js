@@ -71,7 +71,7 @@ export default function Header() {
             (userInfo.user.role === "ADMIN" ? (
               <Link to={"/admin"}>
                 <span className="font-semibold text-blue-500 hover:text-blue-700 duration-300">
-                  Dành cho Amin
+                  Admin
                 </span>
               </Link>
             ) : (
@@ -204,7 +204,7 @@ export default function Header() {
                 }}
                 className="self-center text-lg font-bold hidden lg:inline-block text-gray-100 hover:text-red-500 duration-300 px-8 py-3 rounded"
               >
-                Đăng ký 
+                Đăng ký
               </button>{" "}
               <button
                 onClick={() => {
@@ -233,6 +233,3 @@ export default function Header() {
     </header>
   );
 }
-
-
-

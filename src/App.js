@@ -26,7 +26,7 @@ function App() {
     <div className="">
       <Spiner />
       <BrowserRouter>
-      <AlwaysTop/>
+        <AlwaysTop />
         <Routes>
           <Route
             path="/"

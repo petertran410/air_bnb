@@ -44,7 +44,7 @@ export default function Admin({ Component }) {
     }, 2000);
   }
   return (
-    <div>
+    <div>1
       <Layout
         style={{
           minHeight: "100vh",
@@ -57,7 +57,7 @@ export default function Admin({ Component }) {
         >
           <NavLink to="/">
             <img
-              src="http://demo1.cybersoft.edu.vn/logo.png"
+              src="public\airbnb-logo.png" alt="Hình ảnh"
               className=" p-1"
             />
           </NavLink>

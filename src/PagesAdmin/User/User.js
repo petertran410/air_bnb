@@ -22,7 +22,7 @@ export default function User() {
   const onSearch = (e) => {
     setDataSearch(e.target.value);
   };
-  
+
   return (
     <div className="container mx-auto">
       <h1 className="text-2xl">Quản lý người dùng</h1>

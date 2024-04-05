@@ -15,12 +15,12 @@ function News() {
   };
   let renderContent = () =>
     newData.map((item, i) => (
-      <div
-        style={{height:220}}
-        className="flex"
-        key={i}
-      >
-        <img className="w-1/3 h-48 rounded-xl" src={item.image} alt="newsImage" />
+      <div style={{ height: 220 }} className="flex" key={i}>
+        <img
+          className="w-1/3 h-48 rounded-xl"
+          src={item.image}
+          alt="newsImage"
+        />
         <section className="p-3">
           <a href={item.url} target="_blank" rel="noopener noreferrer">
             {" "}
