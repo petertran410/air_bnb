@@ -25,10 +25,10 @@ Chi tiết phòng: https://air-bnb-ngocnhan.netlify.app/room/:id/:id/:id
 ## Admin account
 Tài khoản: 
 ```
-pedatdethuong312@gmail.com
+admin123@gmail.com
 ```
 Mật khảu: 
 ```
-pedatdethuong312@gmail.com
+admin
 ```
 
