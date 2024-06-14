@@ -14,13 +14,13 @@ Click here --> <a href="https://www.youtube.com/watch?v=Z2hGVObDybk" target="_bl
 
 In the project directory, you can:
 
-Home: https://air-bnb-ngocnhan.netlify.app/
+Home: https://tranngocnhan-airbnb.netlify.app/
 </br>
-Admin: https://air-bnb-ngocnhan.netlify.app/admin
+Admin: https://tranngocnhan-airbnb.netlify.app/admin
 </br>
-Danh sách phòng: https://air-bnb-ngocnhan.netlify.app/detail/:id
+Danh sách phòng: https://tranngocnhan-airbnb.netlify.app/detail/:id
 </br>
-Chi tiết phòng: https://air-bnb-ngocnhan.netlify.app/room/:id/:id/:id
+Chi tiết phòng: https://tranngocnhan-airbnb.netlify.app/room/:id/:id/:id
 
 ## Admin account
 Tài khoản: 
